@@ -1,3 +1,4 @@
+#!/bin/bash
 echo Update START
 ./sap-cli stop
 rm -r sapd
